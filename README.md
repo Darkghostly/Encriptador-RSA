@@ -10,8 +10,7 @@ Este projeto demonstra de forma prática o uso do algoritmo RSA para **criptogra
 - Uso de OAEP (Optimal Asymmetric Encryption Padding) com SHA-256
 
 ## 📂 Tecnologias e Bibliotecas
-
-- Python 3.x
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,vscode,python,cryptography)
 - [cryptography](https://cryptography.io/en/latest/)
 
 ## 🧪 Exemplo de uso
