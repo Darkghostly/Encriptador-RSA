@@ -37,4 +37,5 @@ python RSA.py
 
 ## 🙌 Autor
 Desenvolvido por Gustavo
+
 📌 Apaixonado por tecnologia, cibersegurança e sistemas de proteção digital.
