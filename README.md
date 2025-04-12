@@ -25,17 +25,13 @@ Texto Descriptografado (RSA): Mensagem secreta
 ## 📌 Como executar
 Certifique-se de ter o Python instalado.
 
-Instale a biblioteca necessária:
+# Instale a biblioteca necessária:
 
 ```bash
-Copy
-Edit
 pip install cryptography
-Execute o script:
 ```
+# Execute o script:
 ```bash
-Copy
-Edit
 python RSA.py
 ```
 
