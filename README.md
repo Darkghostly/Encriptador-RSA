@@ -20,3 +20,25 @@ O script gera uma chave RSA, criptografa uma mensagem e em seguida realiza a des
 ```bash
 Texto Criptografado (RSA): 3fa2e...
 Texto Descriptografado (RSA): Mensagem secreta
+```
+
+## 📌 Como executar
+Certifique-se de ter o Python instalado.
+
+Instale a biblioteca necessária:
+
+```bash
+Copy
+Edit
+pip install cryptography
+Execute o script:
+```
+```bash
+Copy
+Edit
+python RSA.py
+```
+
+## 🙌 Autor
+Desenvolvido por Gustavo
+📌 Apaixonado por tecnologia, cibersegurança e sistemas de proteção digital.
